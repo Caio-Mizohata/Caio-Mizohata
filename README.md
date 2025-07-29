@@ -24,5 +24,3 @@
 </p>
 
 Entusiasta de desenvolvimento web, arquitetura de software, integração de APIs e processamento de dados.
-
-
