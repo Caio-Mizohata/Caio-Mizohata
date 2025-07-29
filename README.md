@@ -1,5 +1,3 @@
-<div align="center">
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=31&duration=3800&pause=1000&random=false&width=435&lines=Bem+vindo+ao+meu+GitHub)](https://git.io/typing-svg)
 
 # Caio Mizohata
@@ -28,5 +26,3 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caio-Mizohata&theme=react&layout=compact&border_color=00ffff&title=Tecnologias" alt="Caio's GitHub programming language stats"/>
   </a>
 </p>
-
-</div>
