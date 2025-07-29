@@ -4,8 +4,6 @@
 
 ### **`Desenvolvedor Backend`**
 
----
-
 ## :computer: Linguagens e Tecnologias
 
 <p>
