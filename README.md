@@ -2,7 +2,7 @@
 
 # Caio Mizohata
 
-### **`Desenvolvedor Backend`**
+## **`Desenvolvedor Backend`**
 
 ## :computer: Linguagens e Tecnologias
 
