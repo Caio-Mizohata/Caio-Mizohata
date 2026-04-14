@@ -4,10 +4,10 @@
 
 <p>
   <a href="https://github.com/Caio-Mizohata/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=Caio-Mizohata&theme=react&show_icons=true&border_color=00ffff" alt="Caio's GitHub stats"/>
+    <img src="https://github-readme-stats-seven-sigma-55.vercel.app/api?username=Caio-Mizohata&theme=react&show_icons=true&border_color=00ffff" alt="Caio's GitHub stats"/>
   </a>
   <a href="https://github.com/Caio-Mizohata/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caio-Mizohata&theme=react&layout=compact&border_color=00ffff&title=Tecnologias" alt="Caio's GitHub programming language stats"/>
+    <img src="https://github-readme-stats-seven-sigma-55.vercel.app/api/top-langs/?username=Caio-Mizohata&theme=react&layout=compact&border_color=00ffff&title=Tecnologias" alt="Caio's GitHub programming language stats"/>
   </a>
 </p>
 
