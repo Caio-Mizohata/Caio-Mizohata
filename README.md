@@ -31,7 +31,7 @@ Focado no desenvolvimento de **sistemas web**, construções e integrações de 
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 Estatísticas do meu perfil
 
 <p>
   <a href="https://github.com/Caio-Mizohata/github-readme-stats">
