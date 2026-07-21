@@ -1,6 +1,36 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=31&duration=3800&pause=1000&random=false&width=435&lines=Bem+vindo+ao+meu+GitHub)](https://git.io/typing-svg)
 
-# Olá, eu sou o Caio Mizohata :wave:
+# Me chamo Caio Mizohata 👨🏻‍💻
+### :rocket: **Desenvolvedor Full-Stack | :seedling: Tecnólogo em Big Data no Agronegócio**
+
+Focado no desenvolvimento de **sistemas web**, construções e integrações de **APIs REST**, **SaaS** e plataformas web utilizando **Angular 21+**, **Express** e **FastAPI**. Priorizo **arquitetura de software**, boas práticas e segurança em **autenticação** e **proteção de dados**. Adoto desenvolvimento assistido por **IA (AI-Assisted Coding)** para otimizar fluxos de trabalho, acelerar entregas e resolver problemas complexos com eficiência.
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caio-mizohata/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:caiomizohata@gmail.com)
+
+---
+
+## 🛠️ **Tecnologias & Ferramentas**
+
+![TypeScript](https://skillicons.dev/icons?i=ts)
+![Python](https://skillicons.dev/icons?i=py)
+![HTML5](https://skillicons.dev/icons?i=html)
+![CSS3](https://skillicons.dev/icons?i=css)
+![Node.js](https://skillicons.dev/icons?i=nodejs)
+![Angular](https://skillicons.dev/icons?i=angular)
+![Express.js](https://skillicons.dev/icons?i=express)
+![FastAPI](https://skillicons.dev/icons?i=fastapi)
+![PostgreSQL](https://skillicons.dev/icons?i=postgres)
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
+![Redis](https://skillicons.dev/icons?i=redis)
+![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
+![Docker](https://skillicons.dev/icons?i=docker)
+![VS Code](https://skillicons.dev/icons?i=vscode)
+
+---
+
+## 📊 Estatísticas do GitHub
 
 <p>
   <a href="https://github.com/Caio-Mizohata/github-readme-stats">
@@ -10,20 +40,3 @@
     <img src="https://github-readme-stats-caiomizohata.vercel.app/api/top-langs/?username=Caio-Mizohata&theme=react&layout=compact&border_color=00ffff&title=Tecnologias" alt="Caio's GitHub programming language stats"/>
   </a>
 </p>
-
----
-
-## :computer: Tecnologias que eu uso
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge"/> 
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript Badge"/> 
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django Badge"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS Badge"/> 
-  <img src="https://img.shields.io/badge/API-REST%20%2F%20JSON-ffca28?style=for-the-badge" alt="API Badge"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap Badge"/>
-</p>
-
-Entusiasta de desenvolvimento web, arquitetura de software, integração de APIs e processamento de dados.
