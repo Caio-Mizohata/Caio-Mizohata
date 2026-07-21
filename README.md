@@ -1,12 +1,13 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=31&duration=3800&pause=1000&random=false&width=435&lines=Bem+vindo+ao+meu+GitHub)](https://git.io/typing-svg)
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=31&duration=3800&pause=1000&random=false&width=435&lines=Bem+vindo+ao+meu+GitHub" alt="Typing SVG" />
+  </a>
+</div>
 
 # Me chamo Caio Mizohata 👨🏻‍💻
 ### :rocket: **Desenvolvedor Full-Stack | :seedling: Tecnólogo em Big Data no Agronegócio**
 
 Focado no desenvolvimento de **sistemas web**, construções e integrações de **APIs REST**, **SaaS** e plataformas web utilizando **Angular 21+**, **Express** e **FastAPI**. Priorizo **arquitetura de software**, boas práticas e segurança em **autenticação** e **proteção de dados**. Adoto desenvolvimento assistido por **IA (AI-Assisted Coding)** para otimizar fluxos de trabalho, acelerar entregas e resolver problemas complexos com eficiência.
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caio-mizohata/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:caiomizohata@gmail.com)
 
 ---
 
@@ -40,3 +41,21 @@ Focado no desenvolvimento de **sistemas web**, construções e integrações de 
     <img src="https://github-readme-stats-caiomizohata.vercel.app/api/top-langs/?username=Caio-Mizohata&theme=react&layout=compact&border_color=00ffff&title=Tecnologias" alt="Caio's GitHub programming language stats"/>
   </a>
 </p>
+
+---
+
+## :mailbox: Contato
+
+<div>
+
+  <a href="https://www.linkedin.com/in/caio-mizohata/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:caiomizohata@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://github.com/Caio-Mizohata" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+
+</div>
