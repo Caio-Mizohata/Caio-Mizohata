@@ -11,6 +11,28 @@ Focado no desenvolvimento de **sistemas web**, construções e integrações de 
 
 ---
 
+## ✨ Projetos em Destaque
+
+### 📌 [Angular CCTV](https://github.com/Caio-Mizohata/Angular_CCTV)
+> *Aplicação de monitoramento de câmeras em tempo real para redes locais via RTSP e WebSockets.*
+
+* **O que faz:** Transmite streams de vídeo RTSP de câmeras/DVRs diretamente para o navegador sem plugins, utilizando threads dedicadas por canal e broadcast dinâmico de frames JPEG via WebSocket para múltiplos clientes
+* **Destaques:** Dashboard CCTV responsivo com reconexão automática e controle de foco; gerenciamento otimizado de recursos no backend (a captura via OpenCV encerra automaticamente quando não há clientes ativos); 
+* **Tecnologias:** `Python` • `FastAPI` • `OpenCV` • `Angular 21` • `WebSockets`
+* 🔗 [Acessar Repositório](https://github.com/Caio-Mizohata/Angular_CCTV)
+
+##
+
+### 📌 [Pass Safer](https://github.com/Caio-Mizohata/Pass_Safer)
+> *Plataforma Web para gestão e proteção de credenciais sensíveis utilizando criptografia simétrica*
+
+* **O que faz:** Exibe um dashboard intuitivo e moderno para gerenciamento de dados através do consumo de uma API REST segura com autenticação stateless, criptografia AES-GCM para dados armazenados e hash Argon2 para credenciais de acesso
+* **Destaques:** Criptografia AES-GCM nas senhas armazenadas; Autenticação JWT com access/refresh tokens + blacklist de revogação para logouts; Proteções Helmet (CSP, HSTS), CORS restritivo, CSRF (double-submit cookie), Rate-limit
+* **Tecnologias:** `Node.js` • `TypeScript` • `Express` • `React 18` • `MongoDB` • `Docker Compose`
+* 🔗 [Acessar Repositório](https://github.com/Caio-Mizohata/Pass_Safer)
+
+---
+
 ## 🛠️ **Tecnologias & Ferramentas**
 
 ![TypeScript](https://skillicons.dev/icons?i=ts)
