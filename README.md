@@ -7,7 +7,7 @@
 # Me chamo Caio Mizohata 👨🏻‍💻
 ### :rocket: **Desenvolvedor Full-Stack | :seedling: Tecnólogo em Big Data no Agronegócio**
 
-Focado no desenvolvimento de **sistemas web**, construções e integrações de **APIs REST**, **SaaS** e plataformas web utilizando **Angular 21+**, **Express** e **FastAPI**. Priorizo **arquitetura de software**, boas práticas e segurança em **autenticação** e **proteção de dados**. Adoto desenvolvimento assistido por **IA (AI-Assisted Coding)** para otimizar fluxos de trabalho, acelerar entregas e resolver problemas complexos com eficiência.
+Focado no desenvolvimento de **sistemas web**, **sites institucionais** e **portfólios** com **Angular 21+**, até a construção e integração de **APIs REST com Express** e **FastAPI**. Priorizo arquitetura de software, boas práticas e segurança em autenticação e proteção de dados. Adoto desenvolvimento assistido por **IA (AI-Assisted Coding)** para otimizar fluxos de trabalho, acelerar entregas e resolver problemas complexos com eficiência e segurança.
 
 ---
 
